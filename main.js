@@ -85,6 +85,6 @@ async function change() {
 var interval = setInterval(function () { change(); }, 20000  ); // время обновления в миллисекундах
 
 client.login(process.env.BOT_TOKEN); // токен вашего бота
-// Хотите, чтобы ваш бот работал 24/7 бесплатно? Смотрите это видео: https://www.youtube.com/watch?v=wxdl4QK0am4
 
-// Bot by Sanich https://youtube.com/sanich - фишки, гайды по приложению Discord
+
+// Bot by whitenet
